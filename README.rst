@@ -305,8 +305,3 @@ Similar Tools
   (ASP.NET Core) port of SnapPass.
 
 
-We're Hiring!
--------------
-
-Are you really excited about open-source and great software engineering?
-`Pinterest is hiring <https://careers.pinterest.com>`_!
